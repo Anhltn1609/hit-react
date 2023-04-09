@@ -1,0 +1,22 @@
+.contain{
+    margin: 0 50px;
+}
+.listPhoto {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 3rem;
+    padding: 2rem;
+  }
+  .listPhoto img {
+    border-radius: 1.5rem;
+    /* padding: 1rem;
+    background-color: #fff;
+    border: 2px solid #bdd2f2; */
+  }
+  button {
+    display: flex;
+    background-color: #6d3434;
+    color: #fff;
+    padding: 0.6rem 1.5rem;
+    margin: auto;
+  }
