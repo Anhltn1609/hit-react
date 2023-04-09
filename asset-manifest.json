@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/hit-react/static/css/main.073c9b0a.css",
+    "main.js": "/hit-react/static/js/main.ac62d8c8.js",
+    "static/js/787.d3ad6f83.chunk.js": "/hit-react/static/js/787.d3ad6f83.chunk.js",
+    "static/media/logo.svg": "/hit-react/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/hit-react/index.html",
+    "main.073c9b0a.css.map": "/hit-react/static/css/main.073c9b0a.css.map",
+    "main.ac62d8c8.js.map": "/hit-react/static/js/main.ac62d8c8.js.map",
+    "787.d3ad6f83.chunk.js.map": "/hit-react/static/js/787.d3ad6f83.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.ac62d8c8.js"
+  ]
+}
